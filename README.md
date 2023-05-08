@@ -4,7 +4,7 @@ This repository is the official implementation of Confidence Sequences for Evalu
 
 ### Requirements
 ---
-![Diagram of One-Phase TAR](One-Phase TAR.png)
+![Diagram of One-Phase TAR](One-Phase TAR.png "Diagram of One-Phase TAR")
 
 
 
