@@ -1,6 +1,6 @@
 ## Confidence Sequences for Evaluating One-Phase Technology-Assisted Review (Accepted at ICAIL 2023)
-![Redgrave Data] (22-02 Redgrave_Data_ALT_Horizontal_FC.jpg "Redgrave Data")
 ---
+![Redgrave Data] (22-02 Redgrave_Data_ALT_Horizontal_FC.jpg "Redgrave Data")
 This repository is the official implementation of Confidence Sequences for Evaluating One-Phase Technology-Assisted Review. [this should be a link to the ArXiv paper]
 
 We present a new evaluation approach for one-phase TAR workflows based on confidence sequences. Although the method is expensive in terms of sample size, it is plausible for large-scale reviews and has many opportunities for improvement.
