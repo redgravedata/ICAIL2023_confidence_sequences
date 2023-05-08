@@ -6,6 +6,8 @@ We present a new evaluation approach for one-phase TAR workflows based on confid
 
 We believe that our approach will be valuable to researchers and practitioners interested in evaluating the effectiveness of one-phase TAR workflows in the context of eDiscovery.
 
+**Diagram of One-Phase TAR Process**
+
 ![Diagram of One-Phase TAR](One_Phase_TAR.png "Diagram of One-Phase TAR")
 
 ### Requirements
