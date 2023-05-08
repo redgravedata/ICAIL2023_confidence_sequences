@@ -14,8 +14,7 @@ We believe that our approach will be valuable to researchers and practitioners i
 
 ### Results
 ---
-**95% two-sided confidence intervals on recall for OneShot/URE (dark) vs. our method (light) for post-review coding
-effort from 100 to 25600 documents**
+**95% two-sided confidence intervals on recall for OneShot/URE (dark) vs. our method (light)**
 
 ![Results Two-Sided Confidence Intervals](95_two-sided_conf_interval.jpg "95% two-sided confidence intervals on recall for OneShot/URE (dark) vs. our method (light) for post-review coding
 effort from 100 to 25600 documents")
