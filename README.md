@@ -14,6 +14,8 @@ We believe that our approach will be valuable to researchers and practitioners i
 ---
 These experiments were conducted under
 * Python 3.9
+* Jupyter Notebook
+* Required Libraries: csv, pandas, numpy, scipy, matplotlib, hashlib, copy, pickle, gzip
 
 ### Results
 ---
