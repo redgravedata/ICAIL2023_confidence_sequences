@@ -12,7 +12,8 @@ We believe that our approach will be valuable to researchers and practitioners i
 
 ### Requirements
 ---
-
+These experiments were conducted under
+*Python 3.9
 
 ### Results
 ---
