@@ -27,7 +27,6 @@ def add_PRN(data, CONST_PRN_prefix):
     PRNs = []
     for x in range(len(indexes)):
         y = (str(CONST_PRN_prefix) + "_" + str(indexes[x]))
-        #PRN = (str(CONST_PRN_prefix) + "_" + str(labels[0:1]['Index'].values[0]))
         y = hashlib.md5(y.encode())
         hashed_y = y.hexdigest()
         
