@@ -15,7 +15,7 @@ These experiments were conducted under
 
 ### Run
 ---
-The document orderings for each of the 9 document collections are provided in the data section of this repository. 
+The original pickle files used in the experiment are not provided. Instead, the document orderings for each of the 9 document collections are provided in the data section of this repository. 
 
 ### Results
 ---
