@@ -15,7 +15,9 @@ These experiments were conducted under
 
 ### Run
 ---
-The original pickle files used in the experiment are not provided. Instead, the document orderings for each of the 9 document collections are provided in the data section of this repository. 
+The original pickle files used in the experiment are not provided. Instead, the document orderings for each of the 9 document collections are provided in the data section of this repository as CSV files. These CSV files can be used to replicate the experiment in the WSR_and_URE_with_graphs.ipynb file. For transparency, the notebooks and Python modules used to create both the PRN numbers and documents orderings have been provided in the code section. 
+
+All data referenced in the notebooks should be in the same directory to run the notebook properly. 
 
 ### Results
 ---
